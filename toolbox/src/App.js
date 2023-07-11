@@ -1,11 +1,7 @@
 import "./app.css";
 
 function App() {
-  return (
-    <div className="App">
-      <iframe src="http://toolbox.signzoneinc.com/"></iframe>
-    </div>
-  );
+  return <div className="App">hello world</div>;
 }
 
 export default App;
